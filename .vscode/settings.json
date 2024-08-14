@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "usart.h": "c"
+    },
+   
+    "cortex-debug.gdbPath": "arm-none-eabi-gdb"
+
+}
