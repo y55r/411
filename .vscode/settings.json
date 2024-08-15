@@ -3,9 +3,12 @@
         "gpio.h": "c",
         "main.h": "c",
         "stm32f4xx_hal.h": "c",
-        "usart.h": "c"
+        "usart.h": "c",
+        "mpu6050.h": "c",
+        "i2c.h": "c"
     },
    
-    "cortex-debug.gdbPath": "arm-none-eabi-gdb"
+    "cortex-debug.gdbPath": "arm-none-eabi-gdb",
+    "cortex-debug.variableUseNaturalFormat": true
 
 }
